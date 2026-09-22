@@ -17,22 +17,6 @@ Monday Coffee/
 │   ├── products.csv
 │   └── sales.csv
 │
-├── Monday-Coffee-Expansion-Project-P8/
-│   ├── 1.png
-│   ├── 2.png
-│   ├── 3.png
-│   ├── 4.png
-│   ├── 5.png
-│   ├── 6.png
-│   ├── city.csv
-│   ├── customers.csv
-│   ├── products.csv
-│   ├── sales.csv
-│   ├── MondayCoffeeTasks.sql
-│   ├── Schemas.sql
-│   ├── Solutions.sql
-│   └── README.md
-│
 ├── SQL Queries Outputs/
 │   ├── avg rent per customer.csv
 │   ├── avg_revenue_per_customer_city.csv
